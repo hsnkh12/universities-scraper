@@ -12,7 +12,7 @@ cursor = DBClient.uni
 
 db = DB(cursor=cursor)
 
-scraper = UniversityScraper(country = "Nicaragua")
+scraper = UniversityScraper(country = "")
 
 unis = scraper.scrap()
 
