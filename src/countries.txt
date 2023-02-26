@@ -27,3 +27,154 @@ Latin American
     Haiti
     Honduras
     Mexico
+    Nicaragua
+    Panama
+    Paraguay
+    Peru
+    Puerto Rico
+    Trinidad and Tobago
+    Uruguay
+    Venezuela
+
+
+Europe
+
+    Albania
+    Andorra
+    Austria
+    Belarus
+    Belgium
+    Bosnia and Herzegovina
+    Bulgaria
+    Croatia
+    Czech Republic
+    Denmark
+    Estonia
+    Finland
+    France
+    Germany
+    Greece
+    Hungary
+    Iceland
+    Ireland
+    Italy
+    Latvia
+    Liechtenstein
+    Lithuania
+    Luxembourg
+    Malta
+    Moldova
+    Monaco
+    Montenegro
+    Netherlands
+    North Macedonia
+    Norway
+    Poland
+    Portugal
+    Romania
+    Russia
+    San Marino
+    Serbia
+    Slovakia
+    Slovenia
+    Spain
+    Sweden
+    Switzerland
+    Ukraine
+    United Kingdom
+    Vatican City State
+
+Africa
+
+    Algeria
+    Angola
+    Benin
+    Botswana
+    Burkina Faso
+    Burundi
+    Cameroon
+    Cape Verde
+    Central African Republic
+    Chad
+    Congo
+    Djibouti
+    Egypt
+    Equatorial Guinea
+    Eritrea
+    Ethiopia
+    Gabon
+    Gambia
+    Ghana
+    Guinea
+    Kenya
+    Lesotho
+    Liberia
+    Libya
+    Madagascar
+    Morocco
+    Mozambique
+    Nigeria
+    Namibia
+    Reunion
+    
+Asia 
+
+    Afghanistan
+    Armenia
+    Azerbaijan
+    Bahrain
+    Bangladesh
+    Cambodia
+    China
+    Cyprus
+    East Timor
+    Georgia
+    India
+    Indonesia
+    Iran
+    Iraq
+    Israel
+    Japan
+    Jordan
+    Kazakhstan
+    Korea
+    Kuwait
+    Kyrgyzstan
+    Lebanon
+    Malaysia
+    Maldives
+    Mongolia
+    Myanmar
+    Nepal
+    Oman
+    Pakistan
+    Philippines
+    Qatar
+    Saudi Arabia
+    Singapore
+    Sri Lanka
+    Syria
+    Taiwan
+    Tajikistan
+    Thailand
+    Turkey
+    Turkmenistan
+    United Arab Emirates
+    Uzbekistan
+    Vietnam
+    Yemen
+
+
+Oceania
+
+    Australia
+    French Polynesia
+    Guam
+    New Caledonia
+    New Zealand
+    Papua New Guinea
+    Samoa
+    Solomon Islands
+
+
+
